@@ -21,7 +21,9 @@ The goal of the challenge is to practice fundamental layout skills - such as usi
 
 ### Screenshot
 
+<!-- markdownlint-disable MD033 -->
 <img src="my-screenshots/Screenshot 2025-10-26 023427.png" style="max-width: 600px; height: auto;" alt="Web Preview">
+<!-- markdownlint-enable MD033 -->
 
 A screenshot of my solution.
 
