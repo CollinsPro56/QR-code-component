@@ -28,7 +28,7 @@ A screenshot of my solution.
 ### Links
 
 - Solution URL: [github.com](https://github.com/CollinsPro56/QR-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vercel.app](https://qr-code-component-dun-sigma.vercel.app/)
 
 ### Built with
 
